@@ -3,7 +3,7 @@
 
 - 🔍 I love working on data engineering, AI/ML support, and analytics projects  
 - 📫 Reach me at: emmaohagreat@gmail.com  
-- 📊 Skilled in Python, SQL, Azure, Databricks, Power BI  
+- 📊 Skilled in Python, SQL, Azure, Databricks, Power BI, AWS
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/chibuzo-oha-786b63307/)
@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
+![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=Databricks)
 ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
 
