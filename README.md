@@ -14,6 +14,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
 ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
 
 <!--
 **Emmaoha/Emmaoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
