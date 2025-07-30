@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chibuzo Oha  
+# Hi 👋, I'm Chibuzo Emmanuel Oha  
 🚀 A passionate Data Engineer | Analytics Professional  
 
 - 🔍 I love working on data engineering, AI/ML support, and analytics projects  
